@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Stringy and Mopy: The Adventure Begins</title>
+<link rel="stylesheet" type="text/css" href="theme.css">
+<center><img src="https://s3.amazonaws.com/media.drunkduck.com/users/MegaRdaniels/comics/Stringy_and_Mopy_/layout/header_ZI86xvl.png" style="width:600px;height:200px;">
+</head>
+<body> 
+<header>
+	<nav>
+	<ul>
+		<li><a href="index.html"><img src="https://i.imgur.com/nL8CeRo.png" style="width:100px;height:50px;"></a></li>
+		<li><a href="fan-art.html"><img src="https://i.imgur.com/4ulX7M5.png" style="width:100px;height:50px;"></a></li>
+		<li><a href="about.html"><img src="https://i.imgur.com/GAxTb3K.png" style="width:100px;height:50px;"></a></li>
+		<li><a href="contact.html"><img src="https://i.imgur.com/m82lF2h.png" style="width:100px;height:50px;"></a></li>
+		<li><a href="https://www.theduckwebcomics.com/user/MegaRdaniels/"><img src="https://www.theduckwebcomics.com/static/images/egg-logo-small.png" style="width:75px;height:50px;"></a></li>
+		<li><a href="https://twitter.com/MegaRdaniels"><img src="https://i.ya-webdesign.com/images/twitter-logo-png-circle-6.png" style="width:50px;height:50px;"></a></li>
+		<li><a href="https://www.instagram.com/megardaniels/"><img src="https://i.pinimg.com/originals/63/9b/3d/639b3dafb544d6f061fcddd2d6686ddb.png" style="width:50px;height:50px;"></a>
+		<li><a href="https://www.paypal.me/stringyandmopy">
+<img src="https://bicycletouringpro.com/wp-content/uploads/2008/07/paypal-donate-button.png" style="width:100px;height:50px;"></a>
+
+	</ul>
+
+	<a href="1-1.html"><img src="https://i.imgur.com/qcyu6Cz.png" style="width:100px;height:50px;"></a>.
+	<a href="1-6.html"><img src="https://i.imgur.com/N8O2K6d.png" style="width:100px;height:50px;"></a>
+	<a href="1-8.html"><img src="https://i.imgur.com/FkCmYPN.png" style="width:100px;height:50px;"></a>
+	<a href="#"><img src="https://i.imgur.com/BvmLO1E.png" style="width:100px;height:50px;"></a>
+	
+</header>
+</nav>
+	<font color="yellow"><center><h1>PAGE 7</h1></b></center></font>
+<img src="https://s3.amazonaws.com/media.drunkduck.com/users/MegaRdaniels/comics/Stringy_and_Mopy_/web/XGZFejpVuM.jpg" style="width:600px; height:900px;">
+
+<footer>
+	
+
+	<a href="index.html"><img src="https://i.imgur.com/nL8CeRo.png" style="width:100px;height:50px;"></a>
+	<a href="1-1.html"><img src="https://i.imgur.com/qcyu6Cz.png" style="width:100px;height:50px;"></a>.
+	<a href="1-6.html"><img src="https://i.imgur.com/N8O2K6d.png" style="width:100px;height:50px;"></a>
+	<a href="1-8.html"><img src="https://i.imgur.com/FkCmYPN.png" style="width:100px;height:50px;"></a>
+	<a href="#"><img src="https://i.imgur.com/BvmLO1E.png" style="width:100px;height:50px;"></a>
+	
+
+<hr>
+© 2020 by MegaRdaniels
+
+
+</footer>
+	
