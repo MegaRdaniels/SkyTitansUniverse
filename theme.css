@@ -1,0 +1,66 @@
+
+body {
+ background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRj6VMehxU56_0Roppir30eUrdK0tWr5wpeLZs3CarlvybZEewu");
+ background-color: #cccccc;
+ background-repeat: no-repeat;
+ background-size: 4000px 2000px;
+} 
+
+header {
+  background: transparent;
+  color: white;
+  margin: 0;
+}
+
+header h1{
+  margin: 0; 
+}
+
+nav ul{
+  margin: 0;
+}
+
+img {
+  width: 100%;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: transparent;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 13px 15px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color:#FFFF00;
+}
+
+.myHover{
+      color:#FFFF00;
+    }
+    .myHover:hover
+    {
+      color:#FFFF00;
+    }
+
+.row{
+  display: flex;
+}
+
+.column{
+  flex: 10%;
+  padding: 5px;
+}
