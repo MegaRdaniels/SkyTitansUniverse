@@ -64,3 +64,11 @@ li a:hover {
   flex: 10%;
   padding: 5px;
 }
+
+#share-buttons img {
+width: 35px;
+padding: 5px;
+border: 0;
+box-shadow: 0;
+display: inline;
+}
